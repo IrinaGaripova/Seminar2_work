@@ -1,0 +1,15 @@
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/bin/Debug/net6.0/tasks05
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/bin/Debug/net6.0/tasks05.deps.json
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/bin/Debug/net6.0/tasks05.runtimeconfig.json
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/bin/Debug/net6.0/tasks05.dll
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/bin/Debug/net6.0/tasks05.pdb
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.csproj.AssemblyReference.cache
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.AssemblyInfoInputs.cache
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.AssemblyInfo.cs
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.csproj.CoreCompileInputs.cache
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.dll
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/refint/tasks05.dll
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.pdb
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/tasks05.genruntimeconfig.cache
+/Users/alekseishost/Program c#/Seminar 2/work/tasks05/obj/Debug/net6.0/ref/tasks05.dll
