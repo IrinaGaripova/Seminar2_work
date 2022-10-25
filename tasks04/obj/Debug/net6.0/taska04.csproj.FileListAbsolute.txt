@@ -1,0 +1,15 @@
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/bin/Debug/net6.0/taska04
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/bin/Debug/net6.0/taska04.deps.json
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/bin/Debug/net6.0/taska04.runtimeconfig.json
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/bin/Debug/net6.0/taska04.dll
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/bin/Debug/net6.0/taska04.pdb
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.csproj.AssemblyReference.cache
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.AssemblyInfoInputs.cache
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.AssemblyInfo.cs
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.csproj.CoreCompileInputs.cache
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.dll
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/refint/taska04.dll
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.pdb
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/taska04.genruntimeconfig.cache
+/Users/alekseishost/Program c#/Seminar 2/work/taska04/obj/Debug/net6.0/ref/taska04.dll
